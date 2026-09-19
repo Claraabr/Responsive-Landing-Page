@@ -84,7 +84,6 @@ img {
 }
 .profile-pic {
     width: min(100%, 16rem); /* Use 16rem as the preferred width but shrink to 100% of the parent on narrow screens to prevent horizontal overflow */
-    /* No vertical margin */
     border-radius: 0.5rem;
 }
 
